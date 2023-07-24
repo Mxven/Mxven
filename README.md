@@ -1,26 +1,26 @@
-
-- 🔭 I’m currently working on canadamc
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: jaden@azuremc.co
-- 😄 My website: https://canadamc.org/
-- ⚡ Fun fact: I'm 15 years old
-
-<span> 
-
-- <a href="https://www.instagram.com/3g.jaden/"><img src="https://img.shields.io/badge/instagram%20@3g.jaden-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/pajamamc/"><img src="https://img.shields.io/badge/twitter%20@pajamamc-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://canadamc.org/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20canadamc.org-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+# Hi, I'm Mapel
 
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![Kotlin](https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F791E2&width=435&lines=Hey+I'm+Mapel%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)(https://git.io/typing-svg)
+
+Canadian junior Fullstack developer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from Canada!. 💖
+
+- 💝 Author of multiple open source projects (~50 to date).
+- 💼 Founder Manager @ MapelTech
+- 🤝 Co-Founder @ [Monke.cc](monke.cc)
+- 💜 Female
+- ☕ Coffee lover, turning it into code!
+- 🎯 Wasting my time to save other people's time.
 
 
-! working on https://github.com/pajama10000/PluginCore
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pajama10000" id="counter">
-</p>
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=html,kotlin,java,mysql,css,docker,md,git,figma,bash,cloudflare,py)
+
+
+---
+
+💖 by [Mapel](https://github.com/mxven) | 💜
