@@ -7,7 +7,6 @@
 
 Canadian junior Fullstack developer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from Canada!. 💖
 
-- 💝 Author of multiple open source projects (~50 to date).
 - 💼 Founder Manager @ MapelTech
 - 🤝 Co-Founder @ [Monke.cc](monke.cc)
 - 💜 Female
